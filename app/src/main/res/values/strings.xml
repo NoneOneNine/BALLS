@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BALLS</string>
+    <string name="points">Your Points: </string>
+</resources>
